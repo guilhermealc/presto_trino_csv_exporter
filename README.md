@@ -1,1 +1,1 @@
-# presto_trino_csv_exporter
+# Conector Python para Presto ou Trino
