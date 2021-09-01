@@ -14,7 +14,7 @@ $ pip install pandas
 
 # Quick Start
 
-Edite a linha abaixo com os dados de conexão com o presto / trino.
+Edite a linha abaixo com os dados de conexão ao presto / trino.
 
 ```python
 conn = connection('trino', 'your_user', 'your_password', 'ip or hostname from server', 'port_number', 'your_database')
