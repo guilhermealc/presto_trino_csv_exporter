@@ -2,7 +2,7 @@
 
 # Introduction
 
-Este pacote provê a possibilidade de conexão do Python ao Presto ou Trino e a exportação de CSVs gerador a partir de queries SQL nessas engines.
+Este notebook provê a possibilidade de conexão do Python ao Presto ou Trino e a exportação de CSVs gerador a partir de queries SQL nessas engines.
 
 # Installation
 
